@@ -1,0 +1,12 @@
+id,object_type,owner,rating
+MM2019 - Reo Rental Monitoring 4.0, model, 'Jim Murphy',high
+MM9015 - ValuationNet 2.5, model, 'Kyle Dunham',low
+MM1081 - CCFA 2.0, model, 'Mike Smith',med
+MM1915 HAO 1.0, model, 'Kyle Dunham',med
+MU1897, usage, 'Mike North',low
+MU0016, usage, 'Jordan Williams',crit
+MU0089, usage, 'Chris Sweeny',crit
+MM1659 - IRDB 1.0, model, 'William Robust',high
+MM2111 - TBA Intraday 1.2, model, 'John Guy',low
+MU0165, usage, 'Hen Dai',low
+MM2195 - LMHPF 2.1, model, 'Ken Tree',high
